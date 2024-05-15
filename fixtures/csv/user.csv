@@ -1,0 +1,6 @@
+user_id,user_username,user_firstname,user_lastname,user_email,user_password,user_phone,user_status
+10,arthur_moreira,arthur,moreira,moreira@gmail.com,moreira1234,11952034848,1
+15,geraldo_moreira,geraldo,moreira,geraldo@gmail.com,geraldo1234,11951634848,0
+20,lima_moreira,lima,guedes,guedes@gmail.com,guedes1234,11912014845,1
+25,alcides_munis,alcides,munis,alcides@gmail.com,alcides1234,11980032749,1
+30,gustavo_mendes,gustavo,mendes,gustavomendes@gmail.com,gustavomendes1234,11952034848,0
